@@ -4,7 +4,8 @@
   "description": "simple knowledgebase app",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "dev":"DB_STRING=mongodb+srv://aleemathranseenakk:KX0k0C3ovVTODCSd@cluster0.7k5mj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
   },
   "author": "",
   "license": "ISC",
